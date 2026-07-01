@@ -48,4 +48,4 @@
 3 **фон**
 - удерживание открывает меню настроек
 
-### Попробовать на [Android](/apk/radio.apk?raw=true) можно уже сейчас
+### Попробовать на [Android](https://github.com/denistouch/RecordMini/raw/refs/heads/main/apk/radio.apk) можно уже сейчас
