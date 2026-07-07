@@ -32,20 +32,4 @@
 <img src="/screenshots/1.jpeg?raw=true" width="200"><img src="/screenshots/2.jpeg?raw=true" width="200"><img src="/screenshots/3.jpeg?raw=true" width="200">
 <img src="/screenshots/4.jpeg?raw=true" width="200"><img src="/screenshots/5.jpeg?raw=true" width="200"><img src="/screenshots/6.jpeg?raw=true" width="200">
 
-
-
-### Управление:
-
-<img src="/screenshots/Control.jpg?raw=true" width="300">
-
-1 **Иконка/Название станции**
-- краткое нажатие, показывает всплываающее окно с описанием
-- удерживание открывает список станций
-
-2 **Обложка/Название трека**
-- удерживание открывает страницу поиска аудиозаписи мобильной версии vk.com
-
-3 **фон**
-- удерживание открывает меню настроек
-
 ### Попробовать на [Android](https://github.com/denistouch/RecordMini/raw/refs/heads/main/apk/radio.apk) можно уже сейчас
